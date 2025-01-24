@@ -220,9 +220,9 @@ class LanguageBox {
             ibo: "Mee ka nchọgharị gị gbanwee mmasị asụsụ gị.",
             ar: "حدث المتصفح لتغيير تفضيلات اللغة.",
             he: "רענן את הדפדפן כדי לשנות את העדפת השפה שלך.",
-            ayc: "Actualice su navegador para cambiar su preferencia de idioma.",
-            quz: "Actualice su navegador para cambiar su preferencia de idioma.",
-            gug: "Actualice su navegador para cambiar su preferencia de idioma.",
+            ayc: "Nayrïr apnaqir ukax qillqañ umampit q'ipintam um uñjañataki.",
+            quz: "Ruwankuy browser-ta ruraq rimanayta tukuymanawanchik.",
+            gug: "Embojera pyahu nde navegador re haime hag̃ua nde ñe’ẽ teete.",
             ur:"اپنی زبان کی ترجیح کو تبدیل کرنے کے لئے اپنے براؤزر کو تازہ دم کریں۔"
         };
         if (localStorage.getItem("languagePreference") === this._language) {
